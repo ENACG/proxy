@@ -31,7 +31,7 @@ jsproxy_config({
       label: '【NONE】未知节点',
       hidden: true,
       lines: {
-        'proxy.enacg.workers.dev': 1,
+        //'proxy.enacg.workers.dev': 1,
       }
     }
   },
