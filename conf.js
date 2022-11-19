@@ -23,11 +23,7 @@ jsproxy_config({
       label: '【ENACG】CF节点',
       hidden: true,
       lines: {
-        //'node-cfworker-2.etherdream.com': 4,
-        //'b.007.workers.dev': 1,
-        //'b.hehe.workers.dev': 1,
-        //'b.lulu.workers.dev': 1,
-        //'b.jsproxy.workers.dev': 1,
+        'proxy.enacg.workers.dev': 1,
       }
     },
       // 更多
@@ -35,7 +31,7 @@ jsproxy_config({
       label: '【NONE】未知节点',
       hidden: true,
       lines: {
-        //[location.host]: 1,
+        'proxy.enacg.workers.dev': 1,
       }
     }
   },
